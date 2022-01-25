@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Uwe Girlich
+- 👀 I’m interested in reverse engineering, machinima, physics simulations, module origami
+- 🌱 I’m currently learning Go & k8s
